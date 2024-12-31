@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests broadly cover mechanism design and end-to-end robotics development.
-I have experience in areas such as mobile manipulators, deployable mechanisms, and biomimetic robots.
+My research interests broadly cover mechanism design and end-to-end robotics development.  
+I have experience in areas such as mobile manipulators, deployable mechanisms, and biomimetic robots.  
 I am also interested in other areas of robot development, including wearable devices, reconfigurable modular robots, actuator development, and sergical robots.
 
 
