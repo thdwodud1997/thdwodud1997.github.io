@@ -22,7 +22,7 @@ I have experience in areas such as mobile manipulators, deployable mechanisms, a
 I am also interested in other areas of robot development, including wearable devices, reconfigurable modular robots, actuator development, and sergical robots.
 
 
-# 🔥 News
+# 🔥 Apples
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
