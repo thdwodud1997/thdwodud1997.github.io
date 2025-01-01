@@ -41,10 +41,12 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
 # 🔧 Projects
 - _2023.07 - now_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vvamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.<br>
 - _2022.04 - now_, __Graduate Research: Extendable Robotic Arm__<br>
-Development of an extendable robotic arm and demonstrated it with a meter-scale deployable robotic system. The performed robotic system possesses mobility, self-deployment capability, and sufficient stability to 3D print a 2.5m object successfully.<br>
-<video controls width="600">
-  <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
-</video>
+Developed a compact and rigid extendable robotic arm. Its rigidity allows it to serve as a frame for deployable structures, acting as a key component in various deployable structure designs. A self-deployable tetrahedron frame, 3.4m tall and capable of 3D printing a 2.5m object was demonstrated.<br>
+<div style="margin-left: 20px;">
+  <video controls width="600">
+    <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
+  </video>
+</div>
 
 
 # 📖 Educations
