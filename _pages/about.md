@@ -36,7 +36,7 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
 
 # 🎖 Honors and Awards
 - _2024.05_, 2024 MassRobotics Form & Function Challenge Winner \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/)
-- _2023.12_*, Outstanding MS Thesis Presentation Award
+- _2023.12_, Outstanding MS Thesis Presentation Award
 
 # 🔧 Projects
 - _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -48,4 +48,4 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
 
 # 💻 Internships
 - _2021.01 - 2022.02_, [Dudaji](https://dudaji.com/), South Korea.<br>
-                       Intern as a Machine Learning Engineer in AI startup.
+                       Interned as a Machine Learning Engineer in AI startup.
