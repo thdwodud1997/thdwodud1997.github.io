@@ -40,15 +40,11 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
 
 # 🔧 Projects
 - _2023.07 - now_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vvamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.<br>
+- _2022.04 - now_, Development of an extendable robotic arm and demonstrated it with a meter-scale deployable robotic system. The performed robotic system possesses mobility, self-deployment capability, and sufficient stability to 3D print a 2.5m object successfully.<br>
 <video controls width="600">
   <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
-<video controls width="600">
-  <source src="assets/video/Movie S9.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-- _2022.04 - now_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 📖 Educations
 - _2022.03 - 2024.02_, Seoul National University, Master's Degree in Mechanical Engineering.
