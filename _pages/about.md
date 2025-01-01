@@ -26,26 +26,26 @@ I am also interested in other areas of robot development, including wearable dev
 
 - __Foldable and Rollable Interlaced Structure for Deployable Robotic System__<br>
 Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongmin Kim, Kyu-Jin Cho<br>
-(submitted in *Science Robotics*, under evaluation)
+(submitted in _Science Robotics_, under evaluation)
 
 - __Long Reach and High Payload Manipulation System Using a Manipulator Moving Along an Extendable Arm__<br>
 <u>Jaeyoung Song*</u>, Sun-Pill Jung*, Bumgyu Bae, Kyu-Jin Cho<br>
 (in preparation)
 
-    *\*equal contribution*
+    _\*equal contribution_
 
 # 🎖 Honors and Awards
-- *2024.05*, 2024 MassRobotics Form & Function Challenge Winner \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/)
-- *2023.12*, Outstanding MS Thesis Presentation Award
+- _2024.05_, 2024 MassRobotics Form & Function Challenge Winner \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/)
+- _2023.12_*, Outstanding MS Thesis Presentation Award
 
 # 🔧 Projects
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 📖 Educations
-- *2022.03 - 2024.02*, Seoul National University, Master's Degree in Mechanical Engineering.
-- *2016.03 - 2022.02*, Seoul National University, Bachelor's Degree in Mechanical Engineering. *(including 24 months millitary service)*
+- _2022.03 - 2024.02_, Seoul National University, Master's Degree in Mechanical Engineering.
+- _2016.03 - 2022.02_, Seoul National University, Bachelor's Degree in Mechanical Engineering. *(including 24 months millitary service)*
 
 # 💻 Internships
-- *2021.01 - 2022.02*, [Dudaji](https://dudaji.com/), South Korea.<br>
+- _2021.01 - 2022.02_, [Dudaji](https://dudaji.com/), South Korea.<br>
                        Intern as a Machine Learning Engineer in AI startup.
