@@ -35,21 +35,21 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
     _\*equal contribution_
 
 # 🎖 Honors and Awards
-- _2024.05_, 2024 MassRobotics Form & Function Challenge Winner \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/)
-- _2023.12_, Outstanding MS Thesis Presentation Award
+- _2024.05_ | 2024 MassRobotics Form & Function Challenge Winner \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/)
+- _2023.12_ | Outstanding MS Thesis Presentation Award
 
 # 🔧 Projects
-- _2023.07 - now_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vvamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.<br>
-- _2022.04 - now_, Development of an extendable robotic arm and demonstrated it with a meter-scale deployable robotic system. The performed robotic system possesses mobility, self-deployment capability, and sufficient stability to 3D print a 2.5m object successfully.<br>
+- _2023.07 - now_ | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vvamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.<br>
+- _2022.04 - now_ | Development of an extendable robotic arm and demonstrated it with a meter-scale deployable robotic system. The performed robotic system possesses mobility, self-deployment capability, and sufficient stability to 3D print a 2.5m object successfully.<br>
 <video controls width="600">
   <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
 </video>
 
 
 # 📖 Educations
-- _2022.03 - 2024.02_, Seoul National University, Master's Degree in Mechanical Engineering.
-- _2016.03 - 2022.02_, Seoul National University, Bachelor's Degree in Mechanical Engineering. *(including 24 months millitary service)*
+- _2022.03 - 2024.02_ | Seoul National University, Master's Degree in Mechanical Engineering.
+- _2016.03 - 2022.02_ | Seoul National University, Bachelor's Degree in Mechanical Engineering. *(including 24 months millitary service)*
 
 # 💻 Internships
-- _2021.01 - 2022.02_, [Dudaji](https://dudaji.com/), South Korea.<br>
+- _2021.01 - 2022.02_ | [Dudaji](https://dudaji.com/), South Korea.<br>
                        Interned as a Machine Learning Engineer in AI startup.
