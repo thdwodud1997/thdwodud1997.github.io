@@ -44,6 +44,10 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
   <source src="assets/video/Movie S8.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<video controls width="600">
+  <source src="assets/video/Movie S9.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 - _2022.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 📖 Educations
