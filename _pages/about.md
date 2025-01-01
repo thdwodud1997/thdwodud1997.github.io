@@ -55,6 +55,9 @@ Utilized the extendable robotic arm as a mobile manipulator. It was effectively 
 </div>
 Developed a compact and rigid extendable robotic arm. Its rigidity allows it to serve as a frame for deployable structures, acting as a key component in various deployable structure designs. A self-deployable tetrahedron frame, 3.4m tall and capable of 3D printing a 2.5m object was demonstrated.<br>
 
+- _2020.08 - 2022.02_, __Research Internship: Hopping Robot Development__<br>
+Conducted independent research on developing an energy-efficient untethered hopping robot. An integrated energy-storing spring stored and released energy, enabling the robot to jump with minimal actuator input. As an actuator mechanism design, a series elastic actuator was connected to the energy-storing spring through an active clutch.<br>
+
 
 # 📖 Educations
 - _2022.03 - 2024.02_, __Seoul National University, Master's Degree in Mechanical Engineering.__
