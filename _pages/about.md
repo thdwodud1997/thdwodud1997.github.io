@@ -41,7 +41,7 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
 # 🔧 Projects
 - _2023.07 - now_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vvamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.<br>
 <video controls width="600">
-  <source src="assets/video/Movie S8.mp4" type="video/mp4">
+  <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <video controls width="600">
