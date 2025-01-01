@@ -44,7 +44,8 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
 
 # 📖 Educations
 - *2022.03 - 2024.02*, Seoul National University, Master's Degree in Mechanical Engineering.
-- *2016.03 - 2022.02*, Seoul National University, Bachelor's Degree in Mechanical Engineering.*(including 24 months millitary service)*
+- *2016.03 - 2022.02*, Seoul National University, Bachelor's Degree in Mechanical Engineering. *(including 24 months millitary service)*
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.01 - 2022.02*, [Dudaji](https://dudaji.com/), South Korea.<br>
+                       Intern as a Machine Learning Engineer in AI startup.
