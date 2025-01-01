@@ -32,7 +32,7 @@ Sun-Pill Jung\*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jong
 <u>Jaeyoung Song\*</u>, Sun-Pill Jung*, Bumgyu Bae, Kyu-Jin Cho<br>
 (in preparation)
 
-*\*equal contribution*
+ &ensp;*\*equal contribution*
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
