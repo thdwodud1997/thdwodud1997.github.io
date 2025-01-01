@@ -46,6 +46,7 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
   </video>
 </div>
 Utilized the extendable robotic arm as a mobile manipulator. It was effectively integrated into a robot slightly larger than a robotic vacuum cleaner, featuring a 2m reach and a 1kg payload. The issue of excessive moment force caused by the long moment arm was primarily addressed during the research.<br>
+
 - _2022.04 - now_, __Graduate Research: Extendable Robotic Arm__<br>
 <div style="margin-left: 30px;">
   <video controls width="600">
