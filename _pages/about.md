@@ -26,14 +26,11 @@ I am also interested in other areas of robot development, including wearable dev
 
 - __Foldable and Rollable Interlaced Structure for Deployable Robotic System__  
 Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongmin Kim, Kyu-Jin Cho  
-(submitted in Science Robotics, under evaluation)
+(submitted in *Science Robotics*, under evaluation)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- __Long Reach and High Payload Manipulation System Using a Manipulator Moving Along an Extendable Arm__  
+<u>Jaeyoung Song*</u>, Sun-Pill Jung*, Bumgyu Bae, Kyu-Jin Cho
+(in preparation)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
