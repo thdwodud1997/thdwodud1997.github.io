@@ -35,17 +35,12 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
     _\*equal contribution_
 
 # 🎖 Honors and Awards
-- _2024.05_, __2024 MassRobotics Form & Function Challenge Winner__ \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/) \| [\[link\]](https://people.snu.ac.kr/77/2)
+- _2024.05_, __2024 MassRobotics Form & Function Challenge Winner__ \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/) \| [\[link\]](https://people.snu.ac.kr/en/77/2)
 - _2023.12_, __Outstanding MS Thesis Presentation Award__
 
 # 🔧 Projects
 - _2023.07 - now_, __Graduate Research: Extendable Arm as a Mobile Manipulator__<br>
-<div style="margin-left: 30px;">
-  <video controls width="600">
-    <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
-  </video><br>
-  Utilized the extendable robotic arm as a mobile manipulator. It was effectively integrated into a robot slightly larger than a robotic vacuum cleaner, featuring a 2m reach and a 1kg payload. The issue of excessive moment force caused by the long moment arm was primarily addressed during the research.<br>
-</div>
+Utilized the extendable robotic arm as a mobile manipulator. It was effectively integrated into a robot slightly larger than a robotic vacuum cleaner, featuring a 2m reach and a 1kg payload. The issue of excessive moment force caused by the long moment arm was primarily addressed during the research.<br>
 
 - _2022.04 - now_, __Graduate Research: Extendable Robotic Arm__<br>
 <div style="margin-left: 30px;">
