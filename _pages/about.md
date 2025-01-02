@@ -44,16 +44,16 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
   <video controls width="600">
     <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
   </video>
+  Utilized the extendable robotic arm as a mobile manipulator. It was effectively integrated into a robot slightly larger than a robotic vacuum cleaner, featuring a 2m reach and a 1kg payload. The issue of excessive moment force caused by the long moment arm was primarily addressed during the research.<br>
 </div>
-Utilized the extendable robotic arm as a mobile manipulator. It was effectively integrated into a robot slightly larger than a robotic vacuum cleaner, featuring a 2m reach and a 1kg payload. The issue of excessive moment force caused by the long moment arm was primarily addressed during the research.<br>
 
 - _2022.04 - now_, __Graduate Research: Extendable Robotic Arm__<br>
+Developed a compact and rigid extendable robotic arm. Its rigidity allows it to serve as a frame for deployable structures, acting as a key component in various deployable structure designs. A self-deployable tetrahedron frame, 3.4m tall and capable of 3D printing a 2.5m object was demonstrated.<br>
 <div style="margin-left: 30px;">
   <video controls width="600">
     <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
   </video>
 </div>
-Developed a compact and rigid extendable robotic arm. Its rigidity allows it to serve as a frame for deployable structures, acting as a key component in various deployable structure designs. A self-deployable tetrahedron frame, 3.4m tall and capable of 3D printing a 2.5m object was demonstrated.<br>
 
 - _2023.07 - 2024.01_, __Graduate Student Startup CTO: Anti-tremor Glove Development__<br>
 Served as CTO for a graduate student-led startup, developing a hand tremor suppression glove using gyroscopic principles. The device was intended for distribution to local patients in collaboration with the local government. User evaluations were conducted during development, and feedback was incorporated to improve the device.<br>
