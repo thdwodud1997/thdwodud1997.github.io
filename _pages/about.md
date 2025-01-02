@@ -55,8 +55,14 @@ Utilized the extendable robotic arm as a mobile manipulator. It was effectively 
 </div>
 Developed a compact and rigid extendable robotic arm. Its rigidity allows it to serve as a frame for deployable structures, acting as a key component in various deployable structure designs. A self-deployable tetrahedron frame, 3.4m tall and capable of 3D printing a 2.5m object was demonstrated.<br>
 
-- _2020.08 - 2022.02_, __Research Internship: Hopping Robot Development__<br>
+- _2023.07 - 2024.01_, __Graduate Student Startup CTO: Anti-tremor Glove Development__<br>
+Served as CTO for a graduate student-led startup, developing a hand tremor suppression glove using gyroscopic principles. The device was intended for distribution to local patients in collaboration with the local government. User evaluations were conducted during development, and feedback was incorporated to improve the device.<br>
+
+- _2020.08 - 2022.02_, __Undergraduate Research Internship: Hopping Robot Development__<br>
 Conducted independent research on developing an energy-efficient untethered hopping robot. An integrated energy-storing spring stored and released energy, enabling the robot to jump with minimal actuator input. As an actuator mechanism design, a series elastic actuator was connected to the energy-storing spring through an active clutch.<br>
+
+- _2020.09 - 2020.12_, __Undergraduate Course Team Project: Sign Language Sensing Glove Development__<br>
+Developed a sign language sensing glove for a Mechatronics course team project and got an A+ for the course.<br>
 
 
 # 📖 Educations
