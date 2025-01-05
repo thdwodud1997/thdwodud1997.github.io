@@ -51,10 +51,11 @@ Utilized the extendable robotic arm as a mobile manipulator. It was effectively 
 </div>
 
 - _2023.07 - 2024.01_, __Graduate Student Startup CTO: Anti-tremor Glove Development__<br>
-<img src="assets/Antreon_device_image.jpg" alt="Antreon Device Image" width="600">
+<img src="assets/images/Antreon_device_image.jpg" alt="Antreon Device Image" width="600">
 Served as CTO for a graduate student-led startup, developing a hand tremor suppression glove using gyroscopic principles. The device was intended for distribution to local patients in collaboration with the local government. User evaluations were conducted during development, and feedback was incorporated to improve the device.<br>
 
 - _2020.08 - 2022.02_, __Undergraduate Research Internship: Hopping Robot Development__<br>
+
 Conducted independent research on developing an energy-efficient untethered hopping robot. An integrated energy-storing spring stored and released energy, enabling the robot to jump with minimal actuator input. As an actuator mechanism design, a series elastic actuator was connected to the energy-storing spring through an active clutch.<br>
 
 - _2020.09 - 2020.12_, __Undergraduate Course Team Project: Sign Language Sensing Glove Development__<br>
