@@ -51,6 +51,7 @@ Utilized the extendable robotic arm as a mobile manipulator. It was effectively 
 </div>
 
 - _2023.07 - 2024.01_, __Graduate Student Startup CTO: Anti-tremor Glove Development__<br>
+<img src="assets/Antreon_device_image.jpg" alt="Antreon Device Image" width="600">
 Served as CTO for a graduate student-led startup, developing a hand tremor suppression glove using gyroscopic principles. The device was intended for distribution to local patients in collaboration with the local government. User evaluations were conducted during development, and feedback was incorporated to improve the device.<br>
 
 - _2020.08 - 2022.02_, __Undergraduate Research Internship: Hopping Robot Development__<br>
