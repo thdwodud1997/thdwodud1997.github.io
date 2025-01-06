@@ -56,13 +56,13 @@ Served as CTO for a graduate student-led startup, developing a hand tremor suppr
 
 - _2020.08 - 2022.02_, __Undergraduate Research Internship: Hopping Robot Development__<br>
 <div style="display: inline-block; margin-left: 30px;">
-  <video autoplay loop muted width="240">
+  <video autoplay loop muted controls width="240">
     <source src="assets/video/HoppingRobot_Movie1.mp4" type="video/mp4">
   </video>
 </div>
 <div style="display: inline-block; margin-left: 20px;">
-  <video autoplay loop muted width="240">
-    <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
+  <video autoplay loop muted controls width="240">
+    <source src="assets/video/HoppingRobot_Movie2.mp4" type="video/mp4">
   </video>
 </div>
 Conducted independent research on developing an energy-efficient untethered hopping robot. An integrated energy-storing spring stored and released energy, enabling the robot to jump with minimal actuator input. As an actuator mechanism design, a series elastic actuator was connected to the energy-storing spring through an active clutch.<br>
