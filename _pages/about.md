@@ -55,11 +55,11 @@ Utilized the extendable robotic arm as a mobile manipulator. It was effectively 
 Served as CTO for a graduate student-led startup, developing a hand tremor suppression glove using gyroscopic principles. The device was intended for distribution to local patients in collaboration with the local government. User evaluations were conducted during development, and feedback was incorporated to improve the device.<br>
 
 - _2020.08 - 2022.02_, __Undergraduate Research Internship: Hopping Robot Development__<br>
-<div style="margin-left: 30px;">
+<div style="display: inline-block; margin-left: 30px;">
   <video controls width="300">
     <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
   </video>
-<div style="margin-left: 30px;">
+<div style="display: inline-block; margin-left: 30px;">
   <video controls width="300">
     <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
   </video><br>
