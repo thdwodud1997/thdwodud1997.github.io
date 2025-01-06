@@ -59,10 +59,12 @@ Served as CTO for a graduate student-led startup, developing a hand tremor suppr
   <video controls width="300">
     <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
   </video>
+</div>
 <div style="display: inline-block; margin-left: 30px;">
   <video controls width="300">
     <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
-  </video><br>
+  </video>
+</div>
 Conducted independent research on developing an energy-efficient untethered hopping robot. An integrated energy-storing spring stored and released energy, enabling the robot to jump with minimal actuator input. As an actuator mechanism design, a series elastic actuator was connected to the energy-storing spring through an active clutch.<br>
 
 - _2020.09 - 2020.12_, __Undergraduate Course Team Project: Sign Language Sensing Glove Development__<br>
