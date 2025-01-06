@@ -57,7 +57,7 @@ Served as CTO for a graduate student-led startup, developing a hand tremor suppr
 - _2020.08 - 2022.02_, __Undergraduate Research Internship: Hopping Robot Development__<br>
 <div style="display: inline-block; margin-left: 30px;">
   <video controls width="300">
-    <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
+    <source src="assets/video/HoppingRobot_Movie1.mp4" type="video/mp4">
   </video>
 </div>
 <div style="display: inline-block; margin-left: 30px;">
