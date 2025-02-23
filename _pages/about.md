@@ -23,7 +23,7 @@ I am also interested in other areas of robot development, including wearable dev
 
 
 # 🔥 News
-- _2024.05_, __An interview about winning the MassRobotics competition was featured in SNU's internal magazine, SNU People. The win was also reported in various online news outlets.__ \| [\[link\]](https://people.snu.ac.kr/en/77/2) \| [\[link\]](https://www.mk.co.kr/en/it/11016634)
+- _2025.02_, __The co-first author paper, "Foldable and Rollable Interlaced Structure for Deployable Robotic Systems" submitted to _Science Robotics_, has entered the revision stage!__
 
 # 🔧 Projects
 - _2023.07 - now_, __Graduate Research: Extendable Arm as a Mobile Manipulator__<br>
@@ -68,7 +68,7 @@ Served as CTO for a graduate student-led startup, developing a hand tremor suppr
 
 - __Foldable and Rollable Interlaced Structure for Deployable Robotic System__<br>
 Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongmin Kim, Kyu-Jin Cho<br>
-(submitted in _Science Robotics_, under evaluation)
+(submitted in _Science Robotics_, under revision)
 
 - __Long Reach and High Payload Manipulation System Using a Manipulator Moving Along an Extendable Arm__<br>
 <u>Jaeyoung Song*</u>, Sun-Pill Jung*, Bumgyu Bae, Kyu-Jin Cho<br>
@@ -78,8 +78,8 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
 
 # 🎖 Honors and Awards
 - _2024.05_, __2024 MassRobotics Form & Function Challenge Winner__ \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/)<br>
-&emsp;&emsp;&emsp;&emsp;__An interview about winning the MassRobotics competition was featured in SNU's internal magazine, SNU People. \| [\[link\]](https://people.snu.ac.kr/en/77/2) <br>
-&emsp;&emsp;&emsp;&emsp;The win was also reported in various online news outlets.__\| [\[link\]](https://www.mk.co.kr/en/it/11016634)
+&emsp;&emsp;&emsp;&emsp;&nbsp;__An interview about winning the MassRobotics competition was featured in SNU's internal magazine, SNU People. \| [\[link\]](https://people.snu.ac.kr/en/77/2) <br>
+&emsp;&emsp;&emsp;&emsp;&nbsp;The win was also reported in various online news outlets.__\| [\[link\]](https://www.mk.co.kr/en/it/11016634)
 - _2023.12_, __Outstanding MS Thesis Presentation Award__
 
 # 📖 Educations
