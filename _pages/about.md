@@ -78,7 +78,8 @@ Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongm
 
 # 🎖 Honors and Awards
 - _2024.05_, __2024 MassRobotics Form & Function Challenge Winner__ \| [\[link\]](https://www.massrobotics.org/massrobotics-announces-form-function-challenge-winners-showcases-first-accelerator-cohort-at-the-robotics-summit-expo/)<br>
-&emsp;__An interview about winning the MassRobotics competition was featured in SNU's internal magazine, SNU People. The win was also reported in various online news outlets.__ \| [\[link\]](https://people.snu.ac.kr/en/77/2) \| [\[link\]](https://www.mk.co.kr/en/it/11016634)
+&emsp;&emsp;&emsp;&emsp;__An interview about winning the MassRobotics competition was featured in SNU's internal magazine, SNU People. \| [\[link\]](https://people.snu.ac.kr/en/77/2) <br>
+&emsp;&emsp;&emsp;&emsp;The win was also reported in various online news outlets.__\| [\[link\]](https://www.mk.co.kr/en/it/11016634)
 - _2023.12_, __Outstanding MS Thesis Presentation Award__
 
 # 📖 Educations
