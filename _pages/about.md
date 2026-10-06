@@ -23,7 +23,7 @@ I am also interested in other areas of robot development, including wearable dev
 
 
 # 🔥 News
-- _2025.11_, __The co-first author paper, "Foldable and Rollable Interlaced Structure for Deployable Robotic Systems" has been published in _Science Robotics_! \| [\[link\]](https://www.science.org/doi/10.1126/scirobotics.adv4696)
+- _2025.11_, __The co-first author paper, "Foldable and Rollable Interlaced Structure for Deployable Robotic Systems" has been published in Science Robotics!__ \| [\[link\]](https://www.science.org/doi/10.1126/scirobotics.adv4696)
 
 # 🔧 Projects
 - _2023.07 - 2025.02_, __Graduate Research: Extendable Arm as a Mobile Manipulator__<br>
