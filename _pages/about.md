@@ -23,13 +23,13 @@ I am also interested in other areas of robot development, including wearable dev
 
 
 # 🔥 News
-- _2025.02_, __The co-first author paper, "Foldable and Rollable Interlaced Structure for Deployable Robotic Systems" submitted to _Science Robotics_, has entered the revision stage!__
+- _2025.11_, __The co-first author paper, "Foldable and Rollable Interlaced Structure for Deployable Robotic Systems" has been published in _Science Robotics_! [https://www.science.org/doi/10.1126/scirobotics.adv4696](https://www.science.org/doi/10.1126/scirobotics.adv4696)__
 
 # 🔧 Projects
-- _2023.07 - now_, __Graduate Research: Extendable Arm as a Mobile Manipulator__<br>
+- _2023.07 - 2025.07_, __Graduate Research: Extendable Arm as a Mobile Manipulator__<br>
 Utilized the extendable robotic arm as a mobile manipulator. It was effectively integrated into a robot slightly larger than a robotic vacuum cleaner, featuring a 2m reach and a 1kg payload. The issue of excessive moment force caused by the long moment arm was primarily addressed during the research.<br>
 
-- _2022.04 - now_, __Graduate Research: Extendable Robotic Arm__<br>
+- _2022.04 - 2025.02_, __Graduate Research: Extendable Robotic Arm__<br>
 <div style="margin-left: 30px;">
   <video autoplay loop muted controls width="600">
     <source src="assets/video/Movie S8(2).mp4" type="video/mp4">
@@ -68,7 +68,7 @@ Served as CTO for a graduate student-led startup, developing a hand tremor suppr
 
 - __Foldable and Rollable Interlaced Structure for Deployable Robotic System__<br>
 Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongmin Kim, Kyu-Jin Cho<br>
-(submitted in _Science Robotics_, under revision)
+([published in _Science Robotics_](https://www.science.org/doi/10.1126/scirobotics.adv4696))
 
 - __Long Reach and High Payload Manipulation System Using a Manipulator Moving Along an Extendable Arm__<br>
 <u>Jaeyoung Song*</u>, Sun-Pill Jung*, Bumgyu Bae, Kyu-Jin Cho<br>
