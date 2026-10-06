@@ -23,7 +23,7 @@ I am also interested in other areas of robot development, including wearable dev
 
 
 # 🔥 News
-- _2025.11_, __The co-first author paper, "Foldable and Rollable Interlaced Structure for Deployable Robotic Systems" has been published in _Science Robotics_! [https://www.science.org/doi/10.1126/scirobotics.adv4696](https://www.science.org/doi/10.1126/scirobotics.adv4696)__
+- _2025.11_, __The co-first author paper, "Foldable and Rollable Interlaced Structure for Deployable Robotic Systems" has been published in _Science Robotics_! \| [\[link\]](https://www.science.org/doi/10.1126/scirobotics.adv4696)
 
 # 🔧 Projects
 - _2023.07 - 2025.07_, __Graduate Research: Extendable Arm as a Mobile Manipulator__<br>
@@ -68,7 +68,7 @@ Served as CTO for a graduate student-led startup, developing a hand tremor suppr
 
 - __Foldable and Rollable Interlaced Structure for Deployable Robotic System__<br>
 Sun-Pill Jung*, <u>Jaeyoung Song*</u>, Chan Kim, Haemin Lee, Inchul Jeong, Jongmin Kim, Kyu-Jin Cho<br>
-([published in _Science Robotics_](https://www.science.org/doi/10.1126/scirobotics.adv4696))
+(published in _Science Robotics_ \| [\[link\]](https://www.science.org/doi/10.1126/scirobotics.adv4696))
 
 - __Long Reach and High Payload Manipulation System Using a Manipulator Moving Along an Extendable Arm__<br>
 <u>Jaeyoung Song*</u>, Sun-Pill Jung*, Bumgyu Bae, Kyu-Jin Cho<br>
